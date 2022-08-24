@@ -9,3 +9,7 @@
   5.  Describe how NLP collects and analyzes text data.
   6.  Explain how to use AWS Simple Storage Service (S3) and relational databases for basic cloud storage.
   7.  Complete an analysis of an Amazon customer review.
+
+## Results
+
+## Summary
