@@ -14,9 +14,14 @@
 
   How many Vine reviews and non-Vine reviews were there?
   
+  ![This is an image](
+  
   How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   
+  ![This is an image](
+  
   What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
+  
+  ![This is an image](
 
 ## Summary
