@@ -25,6 +25,8 @@
   
   What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   
+    37.4% of reviews relate to percentage of 5-star reviews for unpaid Vine program.
+  
   ![This is an image](https://github.com/Stookhy/Amazon_Vine_Analysis/blob/main/Resources/5%20Star%20Percentage.png?raw=true)
 
 ## Summary
