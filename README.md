@@ -19,7 +19,6 @@
   How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   
   ![This is an image](https://github.com/Stookhy/Amazon_Vine_Analysis/blob/main/Resources/5%20Star%20Reviews.png?raw=true)
-  
   ![This is an image](https://github.com/Stookhy/Amazon_Vine_Analysis/blob/main/Resources/5%20Star%20Unpaid%20Reviews.png?raw=true)
   
   What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
