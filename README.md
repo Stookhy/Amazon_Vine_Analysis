@@ -14,7 +14,7 @@
 
   How many Vine reviews and non-Vine reviews were there?
   
-  There were a total of 145,431 Vine and non-Vine reviews.
+    There were a total of 145,431 Vine and non-Vine reviews.
   
   ![This is an image](https://github.com/Stookhy/Amazon_Vine_Analysis/blob/main/Resources/Vine%20&%20Non-Vine%20Reviews.png?raw=true)
   
