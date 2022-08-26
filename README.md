@@ -27,8 +27,8 @@
 
 ## Summary
 
-  The positivity bias that was potentially uncovered through the analysis identifies that the unpaid vine reviewers had significantly higher instances of 5-star review for products. In contrast, the paid vine reviewers had very low 5-star percentages.
+   The positivity bias that was potentially uncovered through the analysis identifies that the unpaid vine reviewers had significantly higher instances of 5-star review for products. In contrast, the paid vine reviewers had very low 5-star percentages.
 
-  Given that the sample size was constricted to a degree that it was impossible to compare paid and unpaid Vine reviews, the analysis is biased towards unpaid Vine reviews. Another indicator of the bias is by comparing 37% of unpaid, 5-star Vine reviews to 0% paid, 5-star Vine reviews.
+   Given that the sample size was constricted to a degree that it was impossible to compare paid and unpaid Vine reviews, the analysis is biased towards unpaid Vine reviews. Another indicator of the bias is by comparing 37% of unpaid, 5-star Vine reviews to 0% paid, 5-star Vine reviews.
 
-  The starting criteria of 20 likes or the 50% helpful criteria may have been too high, which made the initial data set too small. Adjustments to these criteria is a first step to reconsidering using this data set.
+   The starting criteria of 20 likes or the 50% helpful criteria may have been too high, which made the initial data set too small. Adjustments to these criteria is a first step to reconsidering using this data set.
