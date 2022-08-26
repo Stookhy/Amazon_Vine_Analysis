@@ -14,7 +14,7 @@
 
   How many Vine reviews and non-Vine reviews were there?
   
-  ![This is an image](
+  ![This is an image](https://github.com/Stookhy/Amazon_Vine_Analysis/blob/main/Resources/5%20Star%20Reviews.png?raw=true)
   
   How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   
